@@ -2,6 +2,6 @@
 Link video demo bisa diakses di :
 https://youtu.be/XxSeqlU34xY
 
-Tugas ini disusun oleh :
-Mohammad Adzka Crosamer (L0123083)
-Naufal Narendro Kusmo (L0123107)
+Tugas ini disusun oleh :  
+Mohammad Adzka Crosamer (L0123083)  
+Naufal Narendro KusUmo (L0123107) 
