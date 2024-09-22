@@ -1,4 +1,6 @@
-20 Solver untuk memenuhi tugas Desain Analisis Algoritma   
+20 Solver untuk memenuhi tugas Desain Analisis Algoritma  
+Link project dapat di akses di : 
+https://20-solver-adzkacrosamer-naufalkusumo.streamlit.app/
 Link video demo bisa diakses di :
 https://youtu.be/XxSeqlU34xY
 
